@@ -1,2 +1,2 @@
-# goGrep
-An implementation of Unix Command line tool - grep in Golang
+# rust-grep
+An implementation of Unix Command line tool - grep in Rust
